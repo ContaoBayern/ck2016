@@ -44,7 +44,7 @@ then
     --highlight-style ${HIGHLIGHT}  \
     ${TALK}.md \
     --output=${TALK}.html
-  sed -i -e "s/simple.css/${THEME}.css/" ${TALK}.html
+  sed -i '' -e "s/simple.css/${THEME}.css/" ${TALK}.html
 else
   pandoc --to=${FORMAT} --standalone ${TALK}.md --output=${TALK}.html
 fi
