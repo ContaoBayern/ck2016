@@ -49,16 +49,14 @@ code { background-color: inherit; /*#ccc;*/ }
 
 ## Support your Community
    
-   CMS-Garden
-   Sichtbarkeit erhöhen
-   Gegenseitige User-Unterstützung
-   Beteiligung an regionalen Veranstaltungen (z.B. Münchner Webwoche)
+- CMS-Garden
+- Sichtbarkeit erhöhen
+- Gegenseitige User-Unterstützung
+- Beteiligung an regionalen Veranstaltungen (z.B. Münchner Webwoche)
    
 ## Münchner Webwoche
    
-   Workshop einreichen
-   Reichweite nutzen
-   neue User / neue Stammtischmitglieder gewinnen
-   
-   
+- Workshop einreichen
+- Reichweite nutzen
+- neue User / neue Stammtischmitglieder gewinnen
 
