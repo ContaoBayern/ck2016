@@ -11,22 +11,6 @@
 
 # Wer sind wir
 
-## Contao Stammtische Stuttgart und München
-
-- Andreas Fieger
-- Joachim Scholtysik
-- Hella Schuster
-- Thomas Weitzel
-
-
-## Contao Stammtisch München
-   
-- Andreas Fieger
-- Joachim Scholtysik
-- Hella Schuster
-   
-
-# Wer sind wir
 
 ## Contao Stammtisch München @stcontaobayern
 
