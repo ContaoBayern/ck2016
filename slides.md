@@ -25,14 +25,38 @@
 - Joachim Scholtysik
 - Hella Schuster
    
+
+# Wer sind wir
+
+## Contao Stammtisch München @stcontaobayern
+
+- Andreas Fieger @fiedschmuc
+- Joachim Scholtysik @jscholtysik
+- Hella Schuster @hellschu
+
+
 ## Contao Stammtisch Stuttgart
-   
-- Thomas Weitzel
+
+- Thomas Weitzel @contaowebdesign
+
+
+# Das Contaoversum
+
+- contao.org
+- Contao Association
+- Contao Stammtische
+
+
+## Die Stammtische
+
+- ca. 40 Stammtische (D-A-CH)
+- ca. ??? Mitglieder
+
 
 
 # Motivation
-  
-- Konkretes Contao-Problem
+
+- Konkretes Contao-Problem lösen
 - Experten finden
 - Freelancer finden
 - Flurfunk
@@ -40,7 +64,7 @@
 
 
 # Organisation
-  
+
 - Raum: Kneipe vs. Besprechungsraum
 - Frequenz: monatlich, quartalsweise?
 - Abstimmung: Doodle
@@ -48,18 +72,46 @@
 
 # Kanäle
 
+- Twitter @stcontaobayern
+- Skype: contao_st_muc
+- Google+: ContaobayernDeM
+- E-Mail: stammtisch@contao-bayern.de
+- Google Mailingliste: contao_st_muc@googlegroups.com
+- Webseite: www.contao-bayern.de
+- Forum: community.contao.org -> Stammtische -> München
+
+
+# Inhalte
+
+- Kurzvorträge
+- direkter Austausch
+- Lösung von konkreten Problemen
+- persönlicher Austausch
+- Kooperationen für Projekte
+
 
 # Ausblick
 
-## Support your Community
-   
-- CMS-Garden
 - Sichtbarkeit erhöhen
+- Austausch über mehrere Stammtische hinweg
+- Skype-Konferenzen
+- YouTube-Channel
+- Dokumentation von Erweiterungen, Funktionen
+
+
+## Support your Community
+
+- CMS-Garden
 - Gegenseitige User-Unterstützung
 - Beteiligung an regionalen Veranstaltungen (z.B. Münchner Webwoche)
-   
+- Marketing
+- Dokumentation
+- Lokationen für Events
+- Programmierung von benötigten Erweiterungen
+
+
 ## Münchner Webwoche
-   
+
 - Workshop einreichen
 - Reichweite nutzen
 - neue User / neue Stammtischmitglieder gewinnen
