@@ -76,6 +76,8 @@
 
 # Ausblick
 
+## 
+
 - Sichtbarkeit erhöhen
 - Austausch über mehrere Stammtische hinweg
 - Skype-Konferenzen
