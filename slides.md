@@ -363,9 +363,13 @@ body {
 
 # Kanäle
 
-- Webseite www.contao-bayern.de
-- Twitter
-- Mailingliste
+- Twitter @stcontaobayern
+- Skype: contao_st_muc
+- Google+: ContaobayernDeM
+- E-Mail: stammtisch@contao-bayern.de
+- Google Mailingliste: contao_st_muc@googlegroups.com
+- Webseite: www.contao-bayern.de
+- Forum: community.contao.org -> Stammtische -> München
 
 
 # Inhalte
@@ -374,10 +378,16 @@ body {
 - direkter Austausch
 - Lösung von konkreten Problemen
 - persönlicher Austausch
+- Kooperationen für Projekte
+
 
 # Ausblick
 
 - Sichtbarkeit erhöhen
+- Austausch über mehrere Stammtische hinweg
+- Skype-Konferenzen für User, die nicht persönlich anwesend sein können
+- YouTube-Channel
+- Dokumentation von Erweiterungen, Funktionen
 
 
 ## Support your Community
@@ -385,6 +395,11 @@ body {
 - CMS-Garden
 - Gegenseitige User-Unterstützung
 - Beteiligung an regionalen Veranstaltungen (z.B. Münchner Webwoche)
+- Marketing
+- Dokumentation
+- Lokationen für Events
+- Programmierung von benötigten Erweiterungen
+
 
 ## Münchner Webwoche
 
