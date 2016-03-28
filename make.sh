@@ -12,7 +12,6 @@ FORMAT=revealjs
 ## #FORMAT=Slideous
 
 # Für FORMAT=revealjs
-
 #THEME=beige
 THEME=black
 #THEME=blood
@@ -26,21 +25,28 @@ THEME=black
 #THEME=white
 
 # Syntax-Highlighting Style
-
 #HIGHLIGHT=pygments
-### #HIGHLIGHT=kate
+#HIGHLIGHT=kate
 HIGHLIGHT=espresso
 #HIGHLIGHT=haddock
 #HIGHLIGHT=tango
 #HIGHLIGHT=zenburn
 
 
+if [ ! -d reveal.js ]
+then
+    echo "Bitte erst reveal.js von https://github.com/hakimel/reveal.js"
+    echo "herunterladen und im Verzeichnis reveal.js installieren!"
+    exit
+fi
+
 if [ ${FORMAT} == 'revealjs' ]
 then
   pandoc \
     --to=${FORMAT} \
-    --standalone -V \
-    theme=${THEME} \
+    --section-divs \
+    --standalone \
+    --variable theme=${THEME} \
     --highlight-style ${HIGHLIGHT}  \
     ${TALK}.md \
     --output=${TALK}.html
@@ -50,10 +56,11 @@ else
 fi
 
 
+
 # PDF für den Druck
 
-#pandoc ${TALK}.md --highlight-style ${HIGHLIGHT} --output=${TALK}.pdf
-pandoc ${TALK}.md --output=${TALK}.pdf
+pandoc ${TALK}.md --highlight-style ${HIGHLIGHT} --output=${TALK}.pdf
+#pandoc ${TALK}.md --output=${TALK}.pdf
 
 echo "done!"
 

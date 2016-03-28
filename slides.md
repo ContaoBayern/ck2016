@@ -1,23 +1,23 @@
 % Build up your Community - Regionale Kompetenzen (ver)stärken
-% Hella Schuster, Andreas Fieger 
+% Hella Schuster, Andreas Fieger, Joachim Scholtysik
 % Raum «Bonn» am Freitag, 20. Mai 2016 von 15:30 – 16:30 Uhr
 
 
 # Build up your Community - Regionale Kompetenzen (ver)stärken
 
-<!-- Modifiziertes Styling (für alle Seiten) -->
-<!-- Code auf der ersten Folie, sonst wird eine leere Folie erzeugt -->
-<style>
-.reveal h1 { font-size: 2em; }
-.reveal h1 , .reveal h2 , .reveal h3 { text-transform: none; }
-.reveal pre { width: 100%; }
-.reveal pre code { font-size: .75em; }
-code { background-color: inherit; /*#ccc;*/ }
-</style>
+<!-- Link zum Stylesheet auf erster Folie, sonst ahben wir "Leerseiten" -->
+<link rel="stylesheet" href="contao.css">
 
 
-  
 # Wer sind wir
+
+## Contao Stammtische Stuttgart und München
+
+- Andreas Fieger
+- Joachim Scholtysik
+- Hella Schuster
+- Thomas Weitzel
+
 
 ## Contao Stammtisch München
    
@@ -29,6 +29,7 @@ code { background-color: inherit; /*#ccc;*/ }
    
 - Thomas Weitzel
 
+
 # Motivation
   
 - Konkretes Contao-Problem
@@ -37,13 +38,16 @@ code { background-color: inherit; /*#ccc;*/ }
 - Flurfunk
 - Spaß!
 
+
 # Organisation
   
 - Raum: Kneipe vs. Besprechungsraum
 - Frequenz: monatlich, quartalsweise?
 - Abstimmung: Doodle
 
+
 # Kanäle
+
 
 # Ausblick
 
@@ -60,3 +64,13 @@ code { background-color: inherit; /*#ccc;*/ }
 - Reichweite nutzen
 - neue User / neue Stammtischmitglieder gewinnen
 
+
+# Testfolie
+
+
+~~~ {.php}
+function baz()
+{
+  $GLOBALS['foo'] = $bar;
+}
+~~~~
