@@ -330,15 +330,22 @@ body {
 
 # Wer sind wir
 
-## Contao Stammtisch München
+## Contao Stammtisch München @stcontaobayern
 
-- Andreas Fieger
-- Joachim Scholtysik
-- Hella Schuster
+- Andreas Fieger @fiedschmuc
+- Joachim Scholtysik @jscholtysik
+- Hella Schuster @hellschu
 
 ## Contao Stammtisch Stuttgart
 
-- Thomas Weitzel
+- Thomas Weitzel @contaowebdesign
+
+# Das Contaoversum
+
+- contao.org
+- Contao Association
+- Contao Stammtische
+
 
 # Motivation
 
