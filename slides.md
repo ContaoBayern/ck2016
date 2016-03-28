@@ -347,6 +347,12 @@ body {
 - Contao Stammtische
 
 
+## Die Stammtische
+
+- ca. 40 Stammtische (D-A-CH)
+- ca. ??? Mitglieder
+
+
 # Motivation
 
 - Konkretes Contao-Problem lösen
@@ -385,7 +391,7 @@ body {
 
 - Sichtbarkeit erhöhen
 - Austausch über mehrere Stammtische hinweg
-- Skype-Konferenzen für User, die nicht persönlich anwesend sein können
+- Skype-Konferenzen
 - YouTube-Channel
 - Dokumentation von Erweiterungen, Funktionen
 
