@@ -5,7 +5,7 @@
 
 # Build up your Community - Regionale Kompetenzen (ver)stärken
 
-<!-- Link zum Stylesheet auf erster Folie, sonst ahben wir "Leerseiten" -->
+<!-- Link zum Stylesheet auf erster Folie, sonst haben wir "Leerseiten" -->
 <link rel="stylesheet" href="contao.css">
 
 
