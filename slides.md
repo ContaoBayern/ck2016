@@ -14,9 +14,9 @@
 
 ## Contao Stammtisch München @stcontaobayern
 
-- Andreas Fieger @fiedschmuc
-- Joachim Scholtysik @jscholtysik
-- Hella Schuster @hellschu
+- Andreas Fieger @fiedschmuc 
+- Joachim Scholtysik @jscholtysik 
+- Hella Schuster @hellschu 
 
 
 ## Contao Stammtisch Stuttgart
@@ -25,6 +25,9 @@
 
 
 # Das Contaoversum
+
+
+## 
 
 - contao.org
 - Contao Association
@@ -103,7 +106,16 @@
 - neue User / neue Stammtischmitglieder gewinnen
 
 
-# Testfolie
+ 
+
+
+# Testfolie {data-background="#00ff00"}
+
+Demo für 
+
+-  HTML-Code: `<section><h1></h1></section>` vs `#`
+- andere Hintergrundfarbe: `data-background="#00ff00"`
+- Code mit Syntax-Highlighting
 
 
 ~~~ {.php}
@@ -112,3 +124,10 @@ function baz()
   $GLOBALS['foo'] = $bar;
 }
 ~~~~
+
+Schrittweise Listen
+
+> * A 
+> * B 
+> * C 
+

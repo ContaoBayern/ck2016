@@ -46,7 +46,9 @@ then
     --to=${FORMAT} \
     --section-divs \
     --standalone \
-    --variable theme=${THEME} \
+    --variable slideNumber="true" \
+    --variable controls="true" \
+    --variable center="false" \
     --highlight-style ${HIGHLIGHT}  \
     ${TALK}.md \
     --output=${TALK}.html
@@ -55,6 +57,8 @@ else
   pandoc --to=${FORMAT} --standalone ${TALK}.md --output=${TALK}.html
 fi
 
+
+## --variable theme=${THEME} \
 
 
 # PDF für den Druck
